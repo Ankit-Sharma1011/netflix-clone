@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Netflix Clone — Modern Streaming UI
 
 A polished, responsive Netflix-inspired streaming platform built with modern frontend architecture.  
@@ -48,3 +49,6 @@ Clone repo:
 git clone https://github.com/Ankit-Sharma1011/netflix-clone.git
 cd netflix-clone
 ```
+=======
+# netflix-clone
+>>>>>>> e99a9d026d280f0d8d3dd38660275a6b192b2b6f
